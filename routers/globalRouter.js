@@ -6,7 +6,6 @@ import {
   getLogin,
   postLogin,
   postJoin,
-  login,
   logout,
 } from "../controllers/userController";
 
